@@ -11,4 +11,4 @@ Esse comando ira rodar o projeto e abrira no endereço [http://localhost:3000](h
 
 ### Preenchendo a tabela
 
-Para preencher os dados da tabela, você devera buscar um dado entres os numero 1 e 802. Para que você possa ver todas a informações corretas, com nome, peso e imagem.
+Para preencher os dados na tabela, você devera buscar um dado entres os numero 1 e 802. Para que você possa ver todas a informações corretas, com nome, peso e imagem.
